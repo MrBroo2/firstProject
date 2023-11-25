@@ -1,0 +1,24 @@
+nav {
+    color: white;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+li {
+    margin: 0 20px
+}
